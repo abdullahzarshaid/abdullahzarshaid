@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" font-family="Helvetica">
-  <rect width="1440" height="360" fill="#0b1220"/>
+  <rect width="1440" height="360" fill="#05090F"/>
   <path d="M950 0V100H1050V200H1160V300H1440 M1030 0V65H1140V160H1270V240H1440 M1120 0V30H1220V100H1350V150H1440" fill="none" stroke="#20354a" stroke-width="2"/>
-  <circle cx="1050" cy="100" r="6" fill="#33d6ac"/>
-  <circle cx="1270" cy="160" r="6" fill="#33d6ac"/>
-  <circle cx="1160" cy="300" r="6" fill="#33d6ac"/>
-  <rect x="0" y="0" width="8" height="360" fill="#33d6ac"/>
-  <text x="60" y="70" font-family="Courier" font-size="20" fill="#33d6ac">ASSESS / DEFEND / GOVERN / TEACH</text>
+  <circle cx="1050" cy="100" r="6" fill="#5BD2FF"/>
+  <circle cx="1270" cy="160" r="6" fill="#2E8BFF"/>
+  <circle cx="1160" cy="300" r="6" fill="#5BD2FF"/>
+  <rect x="0" y="0" width="8" height="360" fill="#2E8BFF"/>
+  <text x="60" y="70" font-family="Courier" font-size="20" fill="#5BD2FF">ASSESS / DEFEND / GOVERN / TEACH</text>
   <text x="56" y="149" font-size="62" font-weight="bold" fill="#f0f6fc">Abdullah Bin Zarshaid</text>
-  <text x="60" y="204" font-size="27" fill="#c9d7e5">Cybersecurity &amp; Information Security</text>
+  <text x="60" y="204" font-size="27" fill="#c9d7e5">Cybersecurity Manager &amp; Security Researcher</text>
   <text x="60" y="246" font-size="23" fill="#93aabd">Offensive security · GRC · Research · Corporate training</text>
   <rect x="60" y="285" width="555" height="1" fill="#29465b"/>
   <text x="60" y="320" font-size="19" fill="#93aabd">Practical tools. Traceable evidence. Shared knowledge.</text>
+  <text x="1110" y="330" font-size="22" font-weight="bold" fill="#5BD2FF">ABZSECURE</text>
 </svg>
