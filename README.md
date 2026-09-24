@@ -9,16 +9,48 @@ I work across cybersecurity and information security: technical assessment, gove
 **[Try PostureKit](https://github.com/abdullahzarshaid/posturekit)** · **[Try EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** · **[Read the handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <a href="https://www.linkedin.com/in/abdullahbinzarshaid/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
+  <a href="https://abzsecure.com/"><img src="https://img.shields.io/badge/Website-ABZSECURE-08916F?style=flat-square" alt="Visit ABZSECURE"></a>
+  <a href="https://orcid.org/0009-0000-8354-5177"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="View ORCID research profile"></a>
+  <a href="mailto:abdullahbinzarshaid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Abdullah"></a>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
-</p>
+
+## Tools & technology
+
+**Build & automate**
+
+<table>
+<tr>
+<td align="center" width="130"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="64" height="64" alt="Python"><br>Python</a></td>
+<td align="center" width="130"><a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="64" height="64" alt="PowerShell"><br>PowerShell</a></td>
+<td align="center" width="130"><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="64" height="64" alt="Bash"><br>Bash</a></td>
+<td align="center" width="130"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="64" height="64" alt="Git"><br>Git</a></td>
+</tr>
+</table>
+
+**Platforms & environments**
+
+<table>
+<tr>
+<td align="center" width="130"><a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&amp;theme=dark" width="64" height="64" alt="Kali Linux"><br>Kali Linux</a></td>
+<td align="center" width="130"><a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="64" height="64" alt="Linux"><br>Linux</a></td>
+<td align="center" width="130"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="64" height="64" alt="Docker"><br>Docker</a></td>
+<td align="center" width="130"><a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" width="64" height="64" alt="Microsoft Azure"><br>Azure</a></td>
+</tr>
+</table>
+
+**Security assessment & analysis**
+
+<table>
+<tr>
+<td align="center" width="130"><a href="https://portswigger.net/burp"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="64" height="64" alt="Burp Suite"><br>Burp Suite</a></td>
+<td align="center" width="130"><a href="https://nmap.org/"><img src="https://nmap.org/images/nmap-logo-64px.svg" width="64" height="64" alt="Nmap"><br>Nmap</a></td>
+<td align="center" width="130"><a href="https://www.wireshark.org/"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="64" height="64" alt="Wireshark"><br>Wireshark</a></td>
+<td align="center" width="130"><a href="https://www.metasploit.com/"><img src="https://cdn.simpleicons.org/metasploit/2596CD" width="64" height="64" alt="Metasploit"><br>Metasploit</a></td>
+</tr>
+</table>
+
+Also in the assessment workflow: **[Greenbone / OpenVAS](https://www.greenbone.net/en/)** and **[Active Directory](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)**.
 
 ---
 
