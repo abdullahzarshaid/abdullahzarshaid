@@ -7,11 +7,13 @@
 
 I work as a cybersecurity manager, combining hands-on security assessment with information-security governance, risk and compliance. My work spans web and API security, network security, practical tooling, research and teaching. This portfolio brings together tools I build, coauthored research and learning resources.
 
+[**ABZSECURE**](https://abzsecure.com/) is my professional brand for security consultancy and training. Here on GitHub, I share the tools, research and learning materials behind my work.
+
 **[Try PostureKit](https://github.com/abdullahzarshaid/posturekit)** · **[Try EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** · **[Read the handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**
 
 <p>
   <a href="https://www.linkedin.com/in/abdullahbinzarshaid/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
-  <a href="https://abzsecure.com/"><img src="https://img.shields.io/badge/Website-ABZSECURE-08916F?style=flat-square" alt="Visit ABZSECURE"></a>
+  <a href="https://abzsecure.com/"><img src="https://img.shields.io/badge/Website-ABZSECURE-2E8BFF?style=flat-square" alt="Visit ABZSECURE"></a>
   <a href="https://orcid.org/0009-0000-8354-5177"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="View ORCID research profile"></a>
   <a href="mailto:abdullahbinzarshaid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Abdullah"></a>
 </p>
