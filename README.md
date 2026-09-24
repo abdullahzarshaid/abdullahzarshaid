@@ -20,6 +20,12 @@ I work as a cybersecurity manager, combining hands-on security assessment with i
 
 ## Choose your starting point
 
+**Use a tool:** [PostureKit demo](https://github.com/abdullahzarshaid/posturekit/tree/main/examples) · [EvidenceGate demo](https://github.com/abdullahzarshaid/evidencegate/tree/main/examples)
+
+**Learn the workflow:** [From Scope to Security Evidence](https://github.com/abdullahzarshaid/ethical-hacking-labs/tree/main/series)
+
+**Explore the research:** [CWE613Study](https://github.com/abdullahzarshaid/CWE613Study)
+
 - **[PostureKit](https://github.com/abdullahzarshaid/posturekit)** — Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports.
 - **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** — local integrity, HTTP capture-structure, CVSS and scope checks for security assessments.
 - **[CWE613Study](https://github.com/abdullahzarshaid/CWE613Study)** — retained data, analysis and executable session-lifecycle examples.
