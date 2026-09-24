@@ -8,6 +8,18 @@ I work across cybersecurity and information security: technical assessment, gove
 
 **[Try PostureKit](https://github.com/abdullahzarshaid/posturekit)** · **[Try EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** · **[Read the handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
+</p>
+
 ---
 
 ## Choose your starting point
@@ -31,8 +43,6 @@ I work across cybersecurity and information security: technical assessment, gove
 | Assess & investigate | Govern & improve | Teach & research |
 |---|---|---|
 | Web and API security; network and wireless assessment; Windows, Active Directory and cloud configuration | Information-security governance; risk assessment; control mapping; evidence quality and remediation tracking | Corporate training; practical labs; assessment methodology; reproducible security research |
-
-**Working toolkit:** Python · PowerShell · Linux · Burp Suite · Nmap · Wireshark · Greenbone/OpenVAS · Git
 
 Teaching materials retain contributor credit; research identifies its coauthors and publication status
 in the project repository. My earlier master's work on SDN-enabled IoT security is being revisited;
