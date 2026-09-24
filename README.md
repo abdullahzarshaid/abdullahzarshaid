@@ -11,7 +11,7 @@
   <a href="https://abzsecure.com/"><img src="https://img.shields.io/badge/Website-abzsecure.com-39d353?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
   <a href="https://orcid.org/0009-0000-8354-5177"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://x.com/BinZarshaid"><img src="https://img.shields.io/badge/X-@BinZarshaid-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <img src="https://komarev.com/ghpvc/?username=abdullahzarshaid&label=Profile+views&color=39d353&style=for-the-badge" alt="Profile views">
+  <a href="mailto:abdullahbinzarshaid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
