@@ -24,11 +24,8 @@ I work as a cybersecurity manager, combining hands-on security assessment with i
 
 **Learn the workflow:** [From Scope to Security Evidence](https://github.com/abdullahzarshaid/ethical-hacking-labs/tree/main/series)
 
-**Explore the research:** [CWE613Study](https://github.com/abdullahzarshaid/CWE613Study)
-
 - **[PostureKit](https://github.com/abdullahzarshaid/posturekit)** — Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports.
 - **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** — local integrity, HTTP capture-structure, CVSS and scope checks for security assessments.
-- **[CWE613Study](https://github.com/abdullahzarshaid/CWE613Study)** — retained data, analysis and executable session-lifecycle examples.
 - **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)** — methodology, worked scenarios and protocol reference.
 - **[Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs)** — 19 topic guides for isolated practice, with credited student examples.
 
@@ -42,7 +39,7 @@ I submitted *Improper Enforcement of Explicit Session Termination* to the CWE Pr
 
 **Session-lifecycle research**
 
-*Logout Is Not Expiration: A Source-Aware Semantic Characterization of CWE-613*, with Shahbaz Akhtar Siddiqui — manuscript submitted to IEEE Access. **[Research materials and project notes](https://github.com/abdullahzarshaid/CWE613Study)**.
+*Logout Is Not Expiration: A Source-Aware Semantic Characterization of CWE-613*, with Shahbaz Akhtar Siddiqui. Manuscript under submission.
 
 ## Tools & technology
 
