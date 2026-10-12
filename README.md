@@ -26,6 +26,7 @@ I work as a cybersecurity manager, combining hands-on security assessment with i
 
 - **[PostureKit](https://github.com/abdullahzarshaid/posturekit)** — Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports.
 - **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** — local integrity, HTTP capture-structure, CVSS and scope checks for security assessments.
+- **[GRC Excel Starter Templates](https://github.com/abdullahzarshaid/abzsecure-grc-templates)** — six original MIT-licensed blank trackers for risk, evidence, remediation, vendors, policies and assessment scope. Not complete framework checklists or certification tools.
 - **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)** — methodology, worked scenarios and protocol reference.
 - **[Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs)** — 19 topic guides for isolated practice, with credited student examples.
 
