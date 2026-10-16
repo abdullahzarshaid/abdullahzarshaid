@@ -1,4 +1,4 @@
-![Abdullah Bin Zarshaid — Cybersecurity, Information Security, GRC and Corporate Training](assets/header.png)
+![Abdullah Bin Zarshaid, Cybersecurity, Information Security, GRC and Corporate Training](assets/header.png)
 
 # Abdullah Bin Zarshaid
 
@@ -7,13 +7,13 @@
 
 I work as a cybersecurity manager, combining hands-on security assessment with information-security governance, risk and compliance. My work spans web and API security, network security, practical tooling, research and teaching. This portfolio brings together tools I build, coauthored research and learning resources.
 
-[**ABZSECURE**](https://abzsecure.com/) is my professional brand for security consultancy and training. Here on GitHub, I share the tools, research and learning materials behind my work.
+My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). [ABZSECURE](https://abzsecure.com/) is the consultancy and training brand I run. This GitHub account holds my own tools, research and teaching material.
 
 **[Try PostureKit](https://github.com/abdullahzarshaid/posturekit)** · **[Try EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** · **[Read the handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**
 
 <p>
   <a href="https://www.linkedin.com/in/abdullahbinzarshaid/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
-  <a href="https://abzsecure.com/"><img src="https://img.shields.io/badge/Website-ABZSECURE-2E8BFF?style=flat-square" alt="Visit ABZSECURE"></a>
+  <a href="https://abdullahzarshaid.com/"><img src="https://img.shields.io/badge/Website-abdullahzarshaid.com-2E8BFF?style=flat-square" alt="Personal website"></a>
   <a href="https://orcid.org/0009-0000-8354-5177"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="View ORCID research profile"></a>
   <a href="mailto:abdullahbinzarshaid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Abdullah"></a>
 </p>
@@ -24,15 +24,15 @@ I work as a cybersecurity manager, combining hands-on security assessment with i
 
 **Learn the workflow:** [From Scope to Security Evidence](https://github.com/abdullahzarshaid/ethical-hacking-labs/tree/main/series)
 
-- **[PostureKit](https://github.com/abdullahzarshaid/posturekit)** — Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports.
-- **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** — local integrity, HTTP capture-structure, CVSS and scope checks for security assessments.
-- **[GRC Excel Starter Templates](https://github.com/abdullahzarshaid/abzsecure-grc-templates)** — six original MIT-licensed blank trackers for risk, evidence, remediation, vendors, policies and assessment scope. Not complete framework checklists or certification tools.
-- **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)** — methodology, worked scenarios and protocol reference.
-- **[Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs)** — 19 topic guides for isolated practice, with credited student examples.
+- **[PostureKit](https://github.com/abdullahzarshaid/posturekit)**: Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports.
+- **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)**: local integrity, HTTP capture-structure, CVSS and scope checks for security assessments.
+- **[GRC Excel Starter Templates](https://github.com/abdullahzarshaid/abzsecure-grc-templates)**: six original MIT-licensed blank trackers for risk, evidence, remediation, vendors, policies and assessment scope. Not complete framework checklists or certification tools.
+- **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**: methodology, worked scenarios and protocol reference.
+- **[Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs)**: 19 topic guides for isolated practice, with credited student examples.
 
 ## Research & contributions
 
-**CWE proposal — explicit session termination**
+**CWE proposal, explicit session termination**
 
 I submitted *Improper Enforcement of Explicit Session Termination* to the CWE Program. The proposal is publicly tracked in the **[CWE Content Development Repository, issue #224](https://github.com/CWE-CAPEC/CWE-Content-Development-Repository/issues/224)**, submission **ES2609-7b54439f**.
 
@@ -40,7 +40,7 @@ I submitted *Improper Enforcement of Explicit Session Termination* to the CWE Pr
 
 **Session-lifecycle research**
 
-*Logout Is Not Expiration: A Source-Aware Semantic Characterization of CWE-613*, with Shahbaz Akhtar Siddiqui. Manuscript under submission.
+*Lifecycle Conditions in CWE-613 Disclosures: A Reproducible, Evidence-Linked Characterisation* (earlier working title *Logout Is Not Expiration*), with Shahbaz Akhtar Siddiqui. Manuscript under peer review; the data and code repository will be opened when the review concludes. Record on [ORCID](https://orcid.org/0009-0000-8354-5177).
 
 ## Tools & technology
 
@@ -106,6 +106,6 @@ These are independent third-party resources, not my projects or endorsements of 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/abdullahbinzarshaid) · [Website](https://abzsecure.com/) · [ORCID](https://orcid.org/0009-0000-8354-5177) · [Email](mailto:abdullahbinzarshaid@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdullahbinzarshaid) · [Website](https://abdullahzarshaid.com/) · [ABZSECURE](https://abzsecure.com/) · [ORCID](https://orcid.org/0009-0000-8354-5177) · [Email](mailto:abdullahbinzarshaid@gmail.com)
 
-For a tool issue, please use its repository's issue tracker with a **synthetic, sanitized example**—never live credentials or client evidence.
+For a tool issue, please use its repository's issue tracker with a **synthetic, sanitized example**, never live credentials or client evidence.
