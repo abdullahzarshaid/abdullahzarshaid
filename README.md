@@ -9,7 +9,9 @@ I work as a cybersecurity manager, combining hands-on security assessment with i
 
 My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). [ABZSECURE](https://abzsecure.com/) is the consultancy and training brand I run. This GitHub account holds my own tools, research and teaching material.
 
-**[Try PostureKit](https://github.com/abdullahzarshaid/posturekit)** · **[Try EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)** · **[Read the handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**
+**[Try PostureKit](https://abdullahzarshaid.github.io/posturekit/)** · **[Try EvidenceGate](https://abdullahzarshaid.github.io/evidencegate/)** · **[Read the handbook](https://abdullahzarshaid.github.io/network-security-assessment-handbook/)** · **[Pick a GRC tracker](https://abdullahzarshaid.github.io/abzsecure-grc-templates/)**
+
+**Latest (17 October 2026):** PostureKit [0.6](https://github.com/abdullahzarshaid/posturekit/releases/latest) and EvidenceGate [1.0.0](https://github.com/abdullahzarshaid/evidencegate/releases/latest) are tagged releases with continuous tests on Linux, Windows and macOS, project pages and citation files; the handbook's [October 2026 edition](https://github.com/abdullahzarshaid/network-security-assessment-handbook/releases/latest) and the GRC trackers [1.0.1](https://github.com/abdullahzarshaid/abzsecure-grc-templates/releases/latest) are downloadable releases. Next: a Web and API penetration testing manual, lab targets only, written from the basics up.
 
 <p>
   <a href="https://www.linkedin.com/in/abdullahbinzarshaid/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
@@ -24,10 +26,12 @@ My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). [ABZS
 
 **Learn the workflow:** [From Scope to Security Evidence](https://github.com/abdullahzarshaid/ethical-hacking-labs/tree/main/series)
 
-- **[PostureKit](https://github.com/abdullahzarshaid/posturekit)**: Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports.
-- **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)**: local integrity, HTTP capture-structure, CVSS and scope checks for security assessments.
-- **[GRC Excel Starter Templates](https://github.com/abdullahzarshaid/abzsecure-grc-templates)**: six original MIT-licensed blank trackers for risk, evidence, remediation, vendors, policies and assessment scope. Not complete framework checklists or certification tools.
-- **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**: methodology, worked scenarios and protocol reference.
+**Run security work in spreadsheets:** [six GRC trackers, pick one online](https://abdullahzarshaid.github.io/abzsecure-grc-templates/)
+
+- **[PostureKit](https://github.com/abdullahzarshaid/posturekit)**: Windows, directory and wireless configuration assessment: evidence collection, rule-based analysis and scanner imports. [Project page](https://abdullahzarshaid.github.io/posturekit/).
+- **[EvidenceGate](https://github.com/abdullahzarshaid/evidencegate)**: local integrity, HTTP capture-structure, CVSS and scope checks for security assessments. [Project page](https://abdullahzarshaid.github.io/evidencegate/).
+- **[GRC Excel Starter Templates](https://github.com/abdullahzarshaid/abzsecure-grc-templates)**: six original MIT-licensed blank trackers for risk, evidence, remediation, vendors, policies and assessment scope. Not complete framework checklists or certification tools. [Browse online](https://abdullahzarshaid.github.io/abzsecure-grc-templates/).
+- **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**: methodology, worked scenarios and protocol reference. [Read online](https://abdullahzarshaid.github.io/network-security-assessment-handbook/handbook.html).
 - **[Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs)**: 19 topic guides for isolated practice, with credited student examples.
 
 ## Research & contributions
