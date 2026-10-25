@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://abdullahzarshaid.com"><img src="assets/abz-logo.png" alt="Abdullah Bin Zarshaid" height="76"></a>
+</p>
+
 ![Abdullah Bin Zarshaid, Cybersecurity, Information Security, GRC and Corporate Training](assets/header.png)
 
 # Abdullah Bin Zarshaid
