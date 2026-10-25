@@ -11,7 +11,7 @@
 
 I work as a cybersecurity manager, combining hands-on security assessment with information-security governance, risk and compliance. My work spans web and API security, network security, practical tooling, research and teaching. This portfolio brings together tools I build, coauthored research and learning resources.
 
-My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). ABZSECURE is the consultancy and training brand I run. This GitHub account holds my own tools, research and teaching material.
+My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). This GitHub account holds my own tools, research and teaching material.
 
 **[Run the Security Self-Assessment](https://abdullahzarshaid.github.io/security-assessment-tools/)** · **[Try PostureKit](https://abdullahzarshaid.github.io/posturekit/)** · **[Try EvidenceGate](https://abdullahzarshaid.github.io/evidencegate/)** · **[Read the handbook](https://abdullahzarshaid.github.io/network-security-assessment-handbook/)** · **[Open the GRC Documentation Kit](https://abdullahzarshaid.github.io/grc-documentation-kit/)**
 
