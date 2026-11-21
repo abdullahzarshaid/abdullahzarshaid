@@ -48,10 +48,6 @@ I submitted *Improper Enforcement of Explicit Session Termination* to the CWE Pr
 
 **Status checked 25 September 2026:** receipt acknowledged (`Phase02-Ack-Receipt`); evaluation pending. This is a proposal, not an assigned or accepted CWE entry. The linked issue is the source for subsequent status changes.
 
-**Session-lifecycle research**
-
-*Lifecycle Conditions in CWE-613 Disclosures: A Reproducible, Evidence-Linked Characterisation* (earlier working title *Logout Is Not Expiration*), with Shahbaz Akhtar Siddiqui. Manuscript under peer review; the data and code repository will be opened when the review concludes. Record on [ORCID](https://orcid.org/0009-0000-8354-5177).
-
 ## Tools & technology
 
 **Build & automate**
