@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://abdullahzarshaid.com"><img src="assets/abz-logo.png" alt="Abdullah Bin Zarshaid" height="76"></a>
+  <a href="https://www.abdullahzarshaid.com"><img src="assets/abz-logo.png" alt="Abdullah Bin Zarshaid" height="76"></a>
 </p>
 
 ![Abdullah Bin Zarshaid, Cybersecurity, Information Security, GRC and Corporate Training](assets/header.png)
@@ -11,15 +11,15 @@
 
 I work as a cybersecurity manager, combining hands-on security assessment with information-security governance, risk and compliance. My work spans web and API security, network security, practical tooling, research and teaching. This portfolio brings together tools I build, coauthored research and learning resources.
 
-My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). This GitHub account holds my own tools, research and teaching material.
+My personal site is [abdullahzarshaid.com](https://www.abdullahzarshaid.com/). This GitHub account holds my own tools, research and teaching material.
 
 **[Run the Security Self-Assessment](https://abdullahzarshaid.github.io/security-assessment-tools/)** · **[Try PostureKit](https://abdullahzarshaid.github.io/posturekit/)** · **[Try EvidenceGate](https://abdullahzarshaid.github.io/evidencegate/)** · **[Read the handbook](https://abdullahzarshaid.github.io/network-security-assessment-handbook/)** · **[Open the GRC Documentation Kit](https://abdullahzarshaid.github.io/grc-documentation-kit/)**
 
-**Latest (26 October 2026):** the new [Security and Compliance Self-Assessment](https://abdullahzarshaid.github.io/security-assessment-tools/) is live, fifteen in-browser readiness assessments (NIST CSF 2.0, ISO 27001, SOC 2, cloud and identity, AI security, incident response, GDPR, vendor risk, recovery, secure delivery and more) plus five hands-on security tools, where every gap links straight to a remediation template. It pairs with the [GRC Documentation Kit](https://github.com/abdullahzarshaid/grc-documentation-kit), 122 original documents and 56 Excel registers for ISO/IEC 27001, ISO/IEC 27701, SOC 2, GDPR, HIPAA and AI governance, with a crosswalk between them and a searchable [online site](https://abdullahzarshaid.github.io/grc-documentation-kit/kit.html). PostureKit [0.6](https://github.com/abdullahzarshaid/posturekit/releases/latest), EvidenceGate [1.0.0](https://github.com/abdullahzarshaid/evidencegate/releases/latest), the handbook's [October 2026 edition](https://github.com/abdullahzarshaid/network-security-assessment-handbook/releases/latest) and the GRC trackers [1.0.1](https://github.com/abdullahzarshaid/grc-excel-templates/releases/latest) are tagged releases. Next: a Web and API penetration testing manual, lab targets only, written from the basics up.
+**Earlier release notes (26 October 2026):** the new [Security and Compliance Self-Assessment](https://abdullahzarshaid.github.io/security-assessment-tools/) is live, fifteen in-browser readiness assessments (NIST CSF 2.0, ISO 27001, SOC 2, cloud and identity, AI security, incident response, GDPR, vendor risk, recovery, secure delivery and more) plus five hands-on security tools, where every gap links straight to a remediation template. It pairs with the [GRC Documentation Kit](https://github.com/abdullahzarshaid/grc-documentation-kit), 122 original documents and 56 Excel registers for ISO/IEC 27001, ISO/IEC 27701, SOC 2, GDPR, HIPAA and AI governance, with a crosswalk between them and a searchable [online site](https://abdullahzarshaid.github.io/grc-documentation-kit/kit.html). PostureKit [0.6](https://github.com/abdullahzarshaid/posturekit/releases/latest), EvidenceGate [1.0.0](https://github.com/abdullahzarshaid/evidencegate/releases/latest), the handbook's [October 2026 edition](https://github.com/abdullahzarshaid/network-security-assessment-handbook/releases/latest) and the GRC trackers [1.0.1](https://github.com/abdullahzarshaid/grc-excel-templates/releases/latest) are tagged releases. Next: a Web and API penetration testing manual, lab targets only, written from the basics up.
 
 <p>
   <a href="https://www.linkedin.com/in/abdullahbinzarshaid/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
-  <a href="https://abdullahzarshaid.com/"><img src="https://img.shields.io/badge/Website-abdullahzarshaid.com-2E8BFF?style=flat-square" alt="Personal website"></a>
+  <a href="https://www.abdullahzarshaid.com/"><img src="https://img.shields.io/badge/Website-abdullahzarshaid.com-2E8BFF?style=flat-square" alt="Personal website"></a>
   <a href="https://orcid.org/0009-0000-8354-5177"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="View ORCID research profile"></a>
   <a href="mailto:abdullahbinzarshaid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Abdullah"></a>
 </p>
@@ -39,6 +39,21 @@ My personal site is [abdullahzarshaid.com](https://abdullahzarshaid.com/). This 
 - **[GRC Excel Starter Templates](https://github.com/abdullahzarshaid/grc-excel-templates)**: six original MIT-licensed blank trackers for risk, evidence, remediation, vendors, policies and assessment scope. Not complete framework checklists or certification tools. [Browse online](https://abdullahzarshaid.github.io/grc-excel-templates/).
 - **[Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook)**: methodology, worked scenarios and protocol reference. [Read online](https://abdullahzarshaid.github.io/network-security-assessment-handbook/handbook.html).
 - **[Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs)**: 19 topic guides for isolated practice, with credited student examples.
+
+## Voluntary community contributions
+
+I build and share free security learning material and original GRC working templates as independent community contributions. These are personal projects, not a claim of a formal volunteer appointment, accreditation or endorsement.
+
+- [GRC Documentation Kit](https://github.com/abdullahzarshaid/grc-documentation-kit): original policy, procedure and register starting points with documented framework mappings.
+- [GRC Excel Starter Templates](https://github.com/abdullahzarshaid/grc-excel-templates): blank trackers for risk, evidence, remediation, vendors, policies and scope. Adapt them to the actual organization; a completed tracker does not establish compliance.
+- [Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs): isolated practice material with contributor credit retained.
+- [Security and Compliance Self-Assessment](https://github.com/abdullahzarshaid/security-assessment-tools): browser-based learning and readiness tools with stated limits.
+
+## SessTrace tool
+
+[SessTrace](https://github.com/abdullahzarshaid/sesstrace) provides evidence-first replay checks for withdrawal of session authority. It includes a synthetic laboratory, replay driver, evaluator and audit workflow. Use only in an authorized laboratory or explicitly permitted scope and read the repository's limitations. [Open the tool project page](https://abdullahzarshaid.github.io/sesstrace/).
+
+This entry describes the released tool. It does not announce publication or acceptance of the related manuscript.
 
 ## Research & contributions
 
@@ -112,6 +127,6 @@ These are independent third-party resources, not my projects or endorsements of 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/abdullahbinzarshaid) · [Website](https://abdullahzarshaid.com/) · [ORCID](https://orcid.org/0009-0000-8354-5177) · [Email](mailto:abdullahbinzarshaid@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdullahbinzarshaid) · [Website](https://www.abdullahzarshaid.com/) · [ORCID](https://orcid.org/0009-0000-8354-5177) · [Email](mailto:abdullahbinzarshaid@gmail.com)
 
 For a tool issue, please use its repository's issue tracker with a **synthetic, sanitized example**, never live credentials or client evidence.
