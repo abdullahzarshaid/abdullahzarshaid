@@ -38,12 +38,15 @@ My personal site is [abdullahzarshaid.com](https://www.abdullahzarshaid.com/). T
 
 ## Voluntary community contributions
 
-I build and share free security learning material and original GRC working templates as independent community contributions. These are personal projects, not a claim of a formal volunteer appointment, accreditation or endorsement.
+I voluntarily build and share free tools, original GRC working resources and practical learning material as independent community contributions. Explore a category, inspect the source and adapt it to the actual task.
 
-- [GRC Documentation Kit](https://github.com/abdullahzarshaid/grc-documentation-kit): original policy, procedure and register starting points with documented framework mappings.
-- [GRC Excel Starter Templates](https://github.com/abdullahzarshaid/grc-excel-templates): blank trackers for risk, evidence, remediation, vendors, policies and scope. Adapt them to the actual organization; a completed tracker does not establish compliance.
-- [Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs): isolated practice material with contributor credit retained.
-- [Security and Compliance Self-Assessment](https://github.com/abdullahzarshaid/security-assessment-tools): browser-based learning and readiness tools with stated limits.
+- **Readiness and browser tools:** [Security and Compliance Self-Assessment](https://github.com/abdullahzarshaid/security-assessment-tools), with stated learning and readiness limits.
+- **GRC working resources:** [GRC Documentation Kit](https://github.com/abdullahzarshaid/grc-documentation-kit) and [GRC Excel Starter Templates](https://github.com/abdullahzarshaid/grc-excel-templates). Templates require adaptation and do not establish compliance or certification.
+- **Assessment and evidence tooling:** [PostureKit](https://github.com/abdullahzarshaid/posturekit) and [EvidenceGate](https://github.com/abdullahzarshaid/evidencegate), with inspectable workflows and project documentation.
+- **Reproducible research tooling:** [SessTrace](https://github.com/abdullahzarshaid/sesstrace), for explicitly authorized session-authority replay checks. Tool availability is separate from the related manuscript's publication status.
+- **Learning and methodology:** [Ethical Hacking Labs](https://github.com/abdullahzarshaid/ethical-hacking-labs) and [Network Security Assessment Handbook](https://github.com/abdullahzarshaid/network-security-assessment-handbook), retaining contributor credits.
+
+These are self-directed, unpaid personal contributions. They do not imply a formal volunteer appointment, accreditation or endorsement. Use tools only within an explicitly authorized scope and read each project's limitations.
 
 ## SessTrace tool
 
