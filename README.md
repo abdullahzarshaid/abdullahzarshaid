@@ -52,15 +52,19 @@ These are self-directed, unpaid personal contributions. They do not imply a form
 
 [SessTrace](https://github.com/abdullahzarshaid/sesstrace) provides evidence-first replay checks for withdrawal of session authority. It includes a synthetic laboratory, replay driver, evaluator and audit workflow. Use only in an authorized laboratory or explicitly permitted scope and read the repository's limitations. [Open the tool project page](https://abdullahzarshaid.github.io/sesstrace/).
 
-This entry describes the released tool. It does not announce publication or acceptance of the related manuscript.
+This entry describes the released tool. The related manuscript was accepted by Information on 24 November 2026; journal publication is a separate milestone.
 
 ## Research & contributions
 
-**CWE proposal, explicit session termination**
+**Acknowledged contribution to CWE-1464**
 
-I submitted *Improper Enforcement of Explicit Session Termination* to the CWE Program. The proposal is publicly tracked in the **[CWE Content Development Repository, issue #224](https://github.com/CWE-CAPEC/CWE-Content-Development-Repository/issues/224)**, submission **ES2609-7b54439f**.
+My proposal, *Improper Enforcement of Explicit Session Termination*, inspired and contributed to **[CWE-1464: Improper Session Invalidation](https://cwe.mitre.org/data/definitions/1464.html)**. The official CWE content history acknowledges my contribution. CWE Version 5.0 was published on 28 October 2026; the CWE Team confirmed inclusion in the [original submission discussion](https://github.com/CWE-CAPEC/CWE-Content-Development-Repository/issues/224) on 23 November 2026. Submission reference: **ES2609-7b54439f**.
 
-**Status checked 25 September 2026:** receipt acknowledged (`Phase02-Ack-Receipt`); evaluation pending. This is a proposal, not an assigned or accepted CWE entry. The linked issue is the source for subsequent status changes.
+**Accepted journal manuscript**
+
+*Lifecycle Conditions in CWE-613 Disclosures: A Reproducible, Evidence-Linked Characterisation* was accepted by **Information** on **24 November 2026**. Authors, in credited order: Abdullah Bin Zarshaid; Shahbaz Akhtar Siddiqui; Ayesha Khaliq; Ghufran Ahmed; Fasee Ullah; Shahid Kamal.
+
+This research examines how session-lifecycle conditions are described in vulnerability disclosures and connects those interpretations to reproducible follow-up testing. Acceptance is distinct from final journal publication. [Research summary and current details](https://www.abdullahzarshaid.com/research/#lifecycle).
 
 ## Tools & technology
 
